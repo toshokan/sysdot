@@ -1,0 +1,10 @@
+media-fonts/kochi-substitute free-noncomm
+sys-kernel/gentoo-sources linux-firmware
+sys-kernel/linux-firmware freedist linux-firmware linux-fw-redistributable no-source-code
+
+# required by games-simulation/openttd-1.9.3::gentoo[openmedia,-dedicated]
+# required by openttd (argument)
+ames-misc/opensfx CC-Sampling-Plus-1.0
+
+# required by steam-launcher (argument)
+games-util/steam-launcher ValveSteamLicense

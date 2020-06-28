@@ -1,0 +1,43 @@
+# -*- mode: conf -*-
+
+app-editors/emacs gif jpeg json gtk png svg xft 
+app-emulation/docker-compose python_targets_python3_6
+app-emulation/libvirt libssh virt-network
+app-emulation/qemu nfs opengl sdl sdl2 spice ssh usb vte
+app-misc/neofetch -X
+app-text/calibre python_single_target_python3_7
+app-text/poppler cairo
+dev-db/mariadb -server
+dev-db/postgresql -server
+dev-java/openjdk-bin:11 gentoo-vm
+dev-ruby/bundler -doc
+dev-lang/ghc binary
+dev-lang/python tk
+dev-lang/R cairo
+dev-lang/rust rustfmt rls clippy
+dev-libs/boost context
+dev-python/pip python_targets_python3_7
+games-emulation/dolphin bluetooth ffmpeg sdl
+gnome-base/gvfs fuse mtp nfs samba 
+media-libs/imlib2 gif jpeg png
+media-libs/libsdl2 opengl
+media-plugins/gst-plugins-meta dts dtv dv ffmpeg flac http libass mp3 ogg opus theora vaapi vorbis v4l x264
+media-sound/mpd flac nfs ogg opus pipe sqlite vorbis wavpack zip
+media-video/ffmpeg libass libdrm libv4l mp3 network openal opengl openh264 openssl opus theora v4l vaapi vdpau vorbis vpx x265 x264 xcb xvid
+net-fs/samba client
+media-gfx/inkscape imagemagick jpeg postscript
+media-sound/ncmpcpp clock outputs taglib visualizer
+media-video/mpv archive bluray cli drm gbm jpeg samba v4l vaapi vdpau
+net-misc/remmina rdp spice vnc
+net-p2p/qbittorrent webui
+sci-mathematics/octave gnuplot opengl
+sys-devel/clang
+sys-devel/gcc fortran
+sys-kernel/genkernel-next cryptsetup
+www-client/firefox eme-free hwaccel
+x11-apps/mesa-progs egl gles2
+x11-misc/rofi windowmode
+x11-libs/libfm udisks
+x11-terms/rxvt-unicode 256-color unicode3 xft
+
+sys-libs/libapparmor python_targets_python3_6
