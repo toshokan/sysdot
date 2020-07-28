@@ -5,7 +5,6 @@ app-emulation/docker-compose python_targets_python3_6
 app-emulation/libvirt libssh virt-network
 app-emulation/qemu nfs opengl sdl sdl2 spice ssh usb vte
 app-misc/neofetch -X
-app-text/calibre python_single_target_python3_7
 app-text/poppler cairo
 dev-db/mariadb -server
 dev-db/postgresql -server
